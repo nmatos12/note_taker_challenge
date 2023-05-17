@@ -18,7 +18,7 @@ JavaScript, Markdown
 
 Links below provide a functionality of webpage.
 
-[Heroku Deployment link]()
+[Heroku Deployment link](https://note-taker-app-nm.herokuapp.com/notes.html)
 
 ![Image showing Note App](assets/images/note_taker.png)
 ![Image showing Note App](assets/images/note_taker2.png)
